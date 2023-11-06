@@ -1,5 +1,7 @@
 # Snake-AI
 
+https://github.com/ISmillex/snake-ai/assets/72645646/7e21cc04-6043-4f2d-bc7a-a3b3026a8553
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
